@@ -1,7 +1,7 @@
 from telebot import TeleBot, types
 import sqlite3
 
-bot = TeleBot('7229254855:AAGAJ7M8Sl5JWBf7O421hIHLU-AkoHlEfl4')
+bot = TeleBot('')
 
 squads = []
 list_all_players = []
